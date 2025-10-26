@@ -1,16 +1,63 @@
-## Hi there 👋
+# 👋 Hi! I'm B3rou!  
 
-<!--
-**B3rou/B3rou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Banner](https://imgur.com/a/0kMpuHN)
 
-Here are some ideas to get you started:
+✨ “Learning new things is the greatest adventure in life!” ✨  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🏫 About Me
+- 👨‍🎓 Medeniyet University, Computer Engineering (2025/2026)  
+- 🏠 Istanbul, Turkey
+
+---
+
+## 💻 Interests
+
+![C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java Badge](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Algorithms Badge](https://img.shields.io/badge/Algorithms-FE7F23?style=for-the-badge)
+![Blender Badge](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+
+- Programming & Algorithms  
+- Gaming  
+- Exploring new technologies 🚀  
+
+---
+
+## 🎹 Hobbies
+
+![Piano Badge](https://img.shields.io/badge/Piano-000000?style=for-the-badge&logo=pianotiles&logoColor=white)
+![Japanese Badge](https://img.shields.io/badge/Japanese-Red?style=for-the-badge&logo=appveyor&logoColor=white)
+
+- Playing piano 🎹  
+- Learning Japanese 🇯🇵  
+- Watching anime 🎥  
+- Problem solving & coding ⚔️
+  
+---
+
+## 🌱 Currently Learning
+
+![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VSCode Badge](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+- Python, C & Java  
+- Basic algorithms & data structures  
+- Piano & Japanese practice  
+- Daily problem solving & coding  
+- Blender & 3D modeling  
+- Unity game development
+
+✨ Continuously learning and applying in projects! ✨
+
+---
+
+## 📫 Contact
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/b3rou)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammedberatkolip)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:beratkolip@gmail.com)
+
+---
