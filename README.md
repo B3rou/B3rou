@@ -1,6 +1,6 @@
 # 👋 Hi! I'm B3rou!  
 
-![Profile Banner](https://imgur.com/a/0kMpuHN)
+![Profile Banner](https://i.imgur.com/npkyCFH.png)
 
 ✨ “Learning new things is the greatest adventure in life!” ✨  
 
