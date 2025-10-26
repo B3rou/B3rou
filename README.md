@@ -29,7 +29,7 @@
 ## 🎹 Hobbies
 
 ![Piano Badge](https://img.shields.io/badge/Piano-000000?style=for-the-badge&logo=pianotiles&logoColor=white)
-![Japanese Badge](https://img.shields.io/badge/Japanese-🇯🇵-red?style=for-the-badge)
+![Japanese Badge](https://img.shields.io/badge/Japanese-Red?style=for-the-badge)
 ![Drawing & Sketching Badge](https://img.shields.io/badge/Drawing--Sketching-FFA500?style=for-the-badge)
 
 - Playing piano 🎹  
