@@ -54,7 +54,7 @@
 ## 📊 Stats
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=b3rou&show_icons=true&hide_border=false&theme=dark)
-![LeetCode Stats](https://leetcard.jacoblin.cool/beratkolip?theme=dark&border_radius=0)
+![LeetCode Stats](https://leetcard.jacoblin.cool/B3rou?theme=dark&border_radius=0)
 ---
 
 ## 📫 Contact
