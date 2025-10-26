@@ -53,9 +53,8 @@
 
 ## 📊 Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=b3rou&show_icons=true&hide_border=true)
-![LeetCode stats](https://leetcode-stats.vercel.app/?username=BertoAga705)
-
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=b3rou&show_icons=true&hide_border=false&theme=dark)
+![LeetCode Stats](https://leetcard.jacoblin.cool/beratkolip?theme=dark&border_radius=0)
 ---
 
 ## 📫 Contact
