@@ -12,43 +12,33 @@
 
 ---
 
-## 💻 Interests
+## 💻 Skills & Interests
 
 ![C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java Badge](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Algorithms Badge](https://img.shields.io/badge/Algorithms-FE7F23?style=for-the-badge)
 ![Blender Badge](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
+![Unity Badge](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Drawing & Sketching Badge](https://img.shields.io/badge/Drawing--Sketching-FFA500?style=for-the-badge)
+![Piano Badge](https://img.shields.io/badge/Piano-000000?style=for-the-badge&logo=pianotiles&logoColor=white)
+![Japanese Badge](https://img.shields.io/badge/Japanese-%23FF0000?style=for-the-badge)
 
 - Programming & Algorithms  
 - Gaming  
 - Exploring new technologies 🚀  
-
----
-
-## 🎹 Hobbies
-
-![Piano Badge](https://img.shields.io/badge/Piano-000000?style=for-the-badge&logo=pianotiles&logoColor=white)
-![Japanese Badge](https://img.shields.io/badge/Japanese-%23FF0000?style=for-the-badge)
-![Drawing & Sketching Badge](https://img.shields.io/badge/Drawing--Sketching-FFA500?style=for-the-badge)
-
-- Playing piano 🎹  
+- Drawing & Sketching ✏️🎨  
+- Playing Piano 🎹  
 - Learning Japanese 🇯🇵  
-- Watching anime 🎥  
-- Problem solving & coding ⚔️
-- Drawing - Sketching ✏️🎨
-  
+- Watching Anime 🎥  
+- Problem solving & coding ⚔️  
+
 ---
 
 ## 🌱 Currently Learning
 
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode Badge](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java Badge](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Algorithms Badge](https://img.shields.io/badge/Algorithms-FE7F23?style=for-the-badge)
-![Blender Badge](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 
 - Python, C & Java  
 - Basic algorithms & data structures  
@@ -58,6 +48,13 @@
 - Unity game development
 
 ✨ Continuously learning and applying in projects! ✨
+
+---
+
+## 📊 Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=b3rou&show_icons=true&hide_border=true)
+![LeetCode stats](https://leetcode-stats.vercel.app/?username=BertoAga705)
 
 ---
 
