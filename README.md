@@ -47,8 +47,8 @@
 - Basic algorithms & data structures  
 - Piano & Japanese practice  
 - Daily problem solving & coding  
-- Blender & 3D modeling  
-- Unity game development
+- // Blender & 3D modeling  
+- /7 Unity game development
 
 ✨ Continuously learning and applying in projects! ✨
 
