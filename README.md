@@ -4,6 +4,8 @@
 
 ✨ “Learning new things is the greatest adventure in life!” ✨  
 
+💪 Currently Training for the HACKATHLON 💪
+
 ---
 
 ## 🏫 About Me
@@ -40,7 +42,8 @@
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VSCode Badge](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-- Python, C & Java  
+- Python, C & JavaScript
+- React Expo
 - Basic algorithms & data structures  
 - Piano & Japanese practice  
 - Daily problem solving & coding  
