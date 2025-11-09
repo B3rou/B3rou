@@ -4,8 +4,6 @@
 
 ✨ “Learning new things is the greatest adventure in life!” ✨  
 
-💪 Currently Training for the HACKATHLON 💪
-
 ---
 
 ## 🏫 About Me
@@ -18,13 +16,8 @@
 
 ![C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java Badge](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Algorithms Badge](https://img.shields.io/badge/Algorithms-FE7F23?style=for-the-badge)
 ![Blender Badge](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
 ![Unity Badge](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Drawing & Sketching Badge](https://img.shields.io/badge/Drawing--Sketching-FFA500?style=for-the-badge)
-![Piano Badge](https://img.shields.io/badge/Piano-000000?style=for-the-badge&logo=pianotiles&logoColor=white)
-![Japanese Badge](https://img.shields.io/badge/Japanese-%23FF0000?style=for-the-badge)
 
 - Programming & Algorithms  
 - Gaming  
