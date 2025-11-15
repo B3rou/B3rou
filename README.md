@@ -36,7 +36,6 @@
 
 - Maintaining [Open-Source Repo](https://github.com/B3rou/Awesome-Calculators)
 - Python, C & HTML/JS/CSS
-- React Expo
 - Basic algorithms & data structures  
 - Piano & Japanese practice  
 - Daily problem solving & coding  
