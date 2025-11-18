@@ -6,21 +6,19 @@
 
 ---
 
-## 🏫 About Me
-- 👨‍🎓 Medeniyet University, Computer Engineering (2025/2026)  
+## 👦 About Me
+- 👨‍🎓 Medeniyet University, Computer Engineering (2025/2029)  
 - 🏠 Istanbul, Turkey
 
 ---
 
-## 💻 Skills & Interests
-
-![C Badge](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+## 🎨 My Interest Are:
 
 - Programming & Algorithms  
 - Gaming  
 - Exploring new technologies 🚀  
-- Drawing & Sketching ✏️🎨  
+- Drawing & Sketching & 3D Modelling ✏️🎨  
+- Learning New Together 🫂
 - Playing Piano 🎹  
 - Learning Japanese 🇯🇵  
 - Watching Anime 🎥  
@@ -30,15 +28,10 @@
 
 ## 🌱 Currently Learning
 
-![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Blender Badge](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white)
-![Unity Badge](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-
 - Maintaining [Open-Source Repo](https://github.com/B3rou/Awesome-Calculators)
 - Python, C & HTML/JS/CSS
-- Basic algorithms & data structures  
+- Algorithms & data structures  
 - Piano & Japanese practice  
-- Daily problem solving & coding  
 - Blender & 3D modeling
 - Unity game development
 
