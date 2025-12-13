@@ -1,16 +1,50 @@
-## Hi there 👋
+# 👋 Hi! I'm B3rou!  
 
-<!--
-**B3rou/B3rou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Profile Banner](https://i.imgur.com/npkyCFH.png)
 
-Here are some ideas to get you started:
+✨ “Learning new things is the greatest adventure in life!” ✨  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👦 About Me
+- 👨‍🎓 Medeniyet University, Computer Engineering (2025/2029)  
+- 🏠 Istanbul, Turkey
+
+---
+
+## 🎨 My Interest Are:
+
+- Programming & Algorithms  
+- Gaming  
+- Exploring new technologies 🚀
+- Playing Piano and Practicing Japanese
+- Drawing & Sketching & 3D Modelling ✏️🎨  
+- Aiming for AI  
+
+---
+
+## 🌱 Currently Learning
+
+- Maintaining [Open-Source Repo](https://github.com/B3rou/Awesome-Calculators)
+- CS50 from Harvard University
+- Python, C & HTML/JS/CSS
+- Blender & 3D modeling
+- Unity game development
+
+✨ Continuously learning and applying in projects! ✨
+
+---
+
+## 📊 Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=b3rou&show_icons=true&hide_border=false&theme=dark)
+![LeetCode Stats](https://leetcard.jacoblin.cool/B3rou?theme=dark&border_radius=0)
+---
+
+## 📫 Contact
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/b3rou)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mberatkolip)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:b3rou@duck.com.com)
+
+---
