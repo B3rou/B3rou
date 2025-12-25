@@ -28,8 +28,9 @@
 - Maintaining [Open-Source Repo](https://github.com/B3rou/Awesome-Calculators)
 - CS50 from Harvard University
 - Python, C & HTML/JS/CSS
-- Blender & 3D modeling
+- Blender & FreeCAD & 3D modeling
 - Unity game development
+- Preparing for Teknofest Medium altitude Rocket Competition
 
 ✨ Continuously learning and applying in projects! ✨
 
