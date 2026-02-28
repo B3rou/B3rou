@@ -29,7 +29,7 @@
 - Maintaining [Open-Source Repo](https://github.com/B3rou/Awesome-Calculators) for people who are new to Open-Source.
 - Developing a comprehensive [Git & GitHub Guide](https://github.com/B3rou/B3rou-Git-Rehberi) in my native language, covering both deep theory and hands-on practice
 - CS50 from Harvard University
-- Python, C, HTML/JS/CSS, Java, Lua
+- Python, C, Java, Lua, C#
 - Experiencing 3D modeling
 - Game development
 - Preparing for Teknofest Medium altitude Rocket Competition
